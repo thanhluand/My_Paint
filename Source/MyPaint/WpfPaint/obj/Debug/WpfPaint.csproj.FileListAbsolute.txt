@@ -1,0 +1,124 @@
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\bin\Debug\WpfPaint.exe.config
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\bin\Debug\WpfPaint.exe
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\bin\Debug\WpfPaint.pdb
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\obj\Debug\MainWindow.g.cs
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\obj\Debug\App.g.cs
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\obj\Debug\WpfPaint_MarkupCompile.cache
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\obj\Debug\WpfPaint_MarkupCompile.lref
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\obj\Debug\MainWindow.baml
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\obj\Debug\WpfPaint.g.resources
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\obj\Debug\WpfPaint.Properties.Resources.resources
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\obj\Debug\WpfPaint.csproj.GenerateResource.Cache
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\obj\Debug\WpfPaint.exe
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\obj\Debug\WpfPaint.pdb
+c:\users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\obj\Debug\WpfPaint.csprojResolveAssemblyReference.cache
+C:\Users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.dll
+C:\Users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\thanh\documents\visual studio 2015\Projects\MyPaint\WpfPaint\obj\Debug\WpfPaint.csproj.WpfPaint.exe.config
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\WpfPaint.exe.config
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\WpfPaint.exe
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\WpfPaint.pdb
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.dll
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.csproj.WpfPaint.exe.config
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\MainWindow.g.cs
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\App.g.cs
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint_MarkupCompile.cache
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint_MarkupCompile.lref
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\MainWindow.baml
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\DesignerItem.baml
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\MoveThumb.baml
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\ResizeDecorator.baml
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\RotateDecorator.baml
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.g.resources
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.Properties.Resources.resources
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.csproj.GenerateResource.Cache
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.exe
+C:\Users\thanh\Desktop\1312347_10\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.pdb
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\WpfPaint.exe.config
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\WpfPaint.exe
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\WpfPaint.pdb
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.dll
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.csproj.WpfPaint.exe.config
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\MainWindow.g.cs
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\App.g.cs
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint_MarkupCompile.cache
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint_MarkupCompile.lref
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\MainWindow.baml
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\DesignerItem.baml
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\MoveThumb.baml
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\ResizeDecorator.baml
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\RotateDecorator.baml
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.g.resources
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.Properties.Resources.resources
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.csproj.GenerateResource.Cache
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.exe
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.pdb
+C:\Users\thanh\Desktop\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.csprojResolveAssemblyReference.cache
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\WpfPaint.exe.config
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\WpfPaint.exe
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\WpfPaint.pdb
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.dll
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.csproj.WpfPaint.exe.config
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\MainWindow.g.cs
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\App.g.cs
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint_MarkupCompile.cache
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint_MarkupCompile.lref
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\MainWindow.baml
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\DesignerItem.baml
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\MoveThumb.baml
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\ResizeDecorator.baml
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\RotateDecorator.baml
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.g.resources
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.Properties.Resources.resources
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.csproj.GenerateResource.Cache
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.exe
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.pdb
+C:\Users\thanh\Desktop\8-2\1312347_8\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.csprojResolveAssemblyReference.cache
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\WpfPaint.exe.config
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.exe
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.pdb
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\WpfPaint.exe
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\WpfPaint.pdb
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.dll
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.csprojResolveAssemblyReference.cache
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.csproj.WpfPaint.exe.config
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\MainWindow.g.cs
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\App.g.cs
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint_MarkupCompile.cache
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint_MarkupCompile.lref
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\MainWindow.baml
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\DesignerItem.baml
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\MoveThumb.baml
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\ResizeDecorator.baml
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\Resources\RotateDecorator.baml
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.g.resources
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.Properties.Resources.resources
+C:\Users\thanh\Desktop\1312347_10\Source\MyPaint\WpfPaint\obj\Debug\WpfPaint.csproj.GenerateResource.Cache
